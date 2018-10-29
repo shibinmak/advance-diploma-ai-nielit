@@ -1,0 +1,2 @@
+1. Using the Taxi environment in Open AI , reset the environment.
+2. Using random moves pickup a passenger and drop the passenger at his desired location. Find out how many moves had to 

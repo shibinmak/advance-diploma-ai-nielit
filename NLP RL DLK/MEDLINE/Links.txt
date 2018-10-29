@@ -1,0 +1,3 @@
+https://www.mat.unical.it/OlexSuite/Datasets/SampleDataSets-about.htm
+
+https://www.researchgate.net/publication/309202510_Medical-Document-Classification-from-OHSUMED-Dataset

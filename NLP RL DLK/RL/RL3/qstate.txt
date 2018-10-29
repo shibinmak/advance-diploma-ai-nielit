@@ -1,0 +1,1 @@
+Q[state,action] = reward  + alpha * np.max(Q[state2])

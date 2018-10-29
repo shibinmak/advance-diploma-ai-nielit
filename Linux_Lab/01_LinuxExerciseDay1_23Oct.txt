@@ -1,0 +1,23 @@
+1. Log into the system using the given username and password.
+2. Change your password.
+3. Add current directory to path variable.
+4. Create a new directory named dir1 in your home directory.
+5. Change to that directory.
+6. create a file named f1 in that directory with some content.
+7. copy f1 to f2
+8. delete f1
+9. Display the content of f2
+10. Create another file f3
+11. create a new file f4 to contain both f2 and f3
+12. create another file f5 that conatins f2,stdin, and then f3 in that order.
+13. Rename f5 to f1.
+14. Copy the direcory dir1 to dir2.
+15. List all the contents of dir2.
+16. Display Today's date
+17. Display Today's date in the format : Today is 21-Mar-2017
+18. Check and specify whether mkdir is an external command or not
+19. create a file ff1 and add some content.
+20. Send the output of ls and the content of ff1 to another file ff2. 
+ 
+	 
+

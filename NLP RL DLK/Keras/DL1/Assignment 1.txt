@@ -1,0 +1,15 @@
+1. The dataset includes data from 768 women with 8 characteristics, in particular:
+
+    Number of times pregnant
+    Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+    Diastolic blood pressure (mm Hg)
+    Triceps skin fold thickness (mm)
+    2-Hour serum insulin (mu U/ml)
+    Body mass index (weight in kg/(height in m)^2)
+    Diabetes pedigree function
+    Age (years)
+
+Calculate the column Diastolic Pressure Not Normal for the data if the Diastolic blood pressure (mm Hg) is not in the range 60 -80.
+You may use features of the spreadsheet to calculate this. Use this as the 10 column . 0 for Normal and 1 for at Risk.
+
+Train the dataset using neural networks and also predict the column value for thesame data.
