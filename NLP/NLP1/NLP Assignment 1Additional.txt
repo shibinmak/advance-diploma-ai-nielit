@@ -1,0 +1,2 @@
+1. Read the contents  of a file. List the sentences in file.
+Read an integer (n) fom the keyboard and display the nth sentence and nth word in the file.

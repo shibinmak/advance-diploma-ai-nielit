@@ -14,7 +14,7 @@
   e. account holder name-data(instance)
   f. account holder address-data(instance)
   g. methods for deposit,withdraw,setting and getting account & account holder details.
-   (Note: you may create a list of bank account instances OR a dict of bank account instances in your program with 'account no' as key)
+   (Note: you may create a list of bank account instances OR a dict of bank account instances with 'account no' as key in your program )
  
    	
  
